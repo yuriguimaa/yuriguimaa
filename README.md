@@ -4,9 +4,9 @@ Seja Bem-vindo! Eu sou Yuri Guimaraes👩‍💻
 
 -📕Estudando Ciência da Computação
 
--🎓formado em Desenvolvimentos de Sistemas
+-🎓Formado em Desenvolvimentos de Sistemas
 
--✉️ Contate-me no email: yurizinguima02@gmail.com
+-📩Contate-me no email: yurizinguima02@gmail.com
  ##
 <div style="display: inline_block"><br>
   <img align="center" alt="yuriguimaraes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
